@@ -1,9 +1,14 @@
 body{
   text-align: center;
   font-family: 'Arial';
-  background: palevioletred;
-  color: black;
+  font-display: swap;
+  background-color:black ;
+  color: white;
 }
 img {
   width: 200px;
+}
+a{ text-align: center;
+   font-family:'Arial';
+   font-display: swap;
 }
