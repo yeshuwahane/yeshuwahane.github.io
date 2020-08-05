@@ -2,13 +2,42 @@ body{
   text-align: center;
   font-family: 'Arial';
   font-display: swap;
-  background-color:black ;
+  background-color : black;
   color: white;
 }
-img {
-  width: 200px;
+
+
+
+.container{
+  /*border : 3px solid red;*/
+  display : flex;
+  flex-direction : column;
+  justify-content : center;
+  align-items : center;
+  height : 60vh;
+  margin-top : 100px; 
 }
-a{ text-align: center;
-   font-family:'Arial';
-   font-display: swap;
+.container p{
+  font-size : 2rem;
+  font-family: 'Arial';
+}
+.image {
+  height : 400px;
+  width : 700px;
+  margin : 20px;
+  
+}
+.image:hover{
+  opacity : 0.8;
+}
+#img1{
+  margin-top : 800px;
+}
+.icons{
+  font-size : 2rem;
+  margin-top : 50px;
+}
+.icons i{
+  padding : .8rem;
+  color : #fff;
 }
