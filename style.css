@@ -5,7 +5,9 @@ body{
   background-color : black;
   color: white;
 }
-
+.contains{
+  margin-top: 3500px;
+}
 
 
 .container{
@@ -25,10 +27,16 @@ body{
   height : 400px;
   width : 700px;
   margin : 20px;
+
   
 }
+.fa-envelope{
+  transform: scale(1.1);
+}
 .image:hover{
-  opacity : 0.8;
+  /*opacity : 0.8;*/
+  transform: scale(1.1);
+  /*transform: translate(0, -5px);*/
 }
 #img1{
   margin-top : 800px;
