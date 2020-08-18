@@ -1,0 +1,15 @@
+img, svg {
+  height: 150px;
+  margin: 10px;
+  border-style: none;
+}
+
+img, svg {
+}
+
+.portfolio-block.photography .item a img {
+  height: 200px;
+}
+
+.portfolio-info-card
+
