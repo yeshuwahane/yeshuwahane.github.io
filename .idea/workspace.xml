@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,18 +23,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0eaa27c-3708-430e-9db3-c4dfdbd60146" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/yeshuwahane.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BoxRun.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS-Survival.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappyBird/Build/UnityLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappyBird/Build/Webgl.data.unityweb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappyBird/Build/Webgl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappyBird/Build/Webgl.wasm.code.unityweb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappyBird/Build/Webgl.wasm.framework.unityweb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappyBird/TemplateData/UnityProgress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappyBird/TemplateData/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappyBird/TemplateData/fullscreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappyBird/TemplateData/progressEmpty.Dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappyBird/TemplateData/progressEmpty.Light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappyBird/TemplateData/progressFull.Dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappyBird/TemplateData/progressFull.Light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappyBird/TemplateData/progressLogo.Dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappyBird/TemplateData/progressLogo.Light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappyBird/TemplateData/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappyBird/TemplateData/webgl-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappyBird/flappyBird.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/cv.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects-compact-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects-compact-grid.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,11 +70,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -60,7 +93,15 @@
       <updated>1597179611742</updated>
       <workItem from="1597179615035" duration="2361000" />
       <workItem from="1597278637883" duration="435000" />
-      <workItem from="1597324517296" duration="316000" />
+      <workItem from="1597324517296" duration="621000" />
+      <workItem from="1597493516963" duration="2036000" />
+      <workItem from="1597570364785" duration="743000" />
+      <workItem from="1597611296368" duration="122000" />
+      <workItem from="1597685342703" duration="607000" />
+      <workItem from="1597687408432" duration="977000" />
+      <workItem from="1597698530314" duration="1000000" />
+      <workItem from="1597747894305" duration="5027000" />
+      <workItem from="1598693658814" duration="4706000" />
     </task>
     <servers />
   </component>
@@ -80,9 +121,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597181456436">
+    <state x="589" y="234" width="732" height="637" key="#Inspections" timestamp="1598694695247">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
-    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl/0.25.1920.1055@0.25.1920.1055" timestamp="1597181456436" />
+    <state x="589" y="234" width="732" height="637" key="#Inspections/0.25.1920.1055@0.25.1920.1055" timestamp="1598694695247" />
+    <state x="418" y="210" width="1084" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597505043501">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="418" y="210" width="1084" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1597505043501" />
+    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597505017895">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl/0.25.1920.1055@0.25.1920.1055" timestamp="1597505017895" />
+    <state x="444" y="187" key="SettingsEditor" timestamp="1597611373800">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="444" y="187" key="SettingsEditor/0.25.1920.1055@0.25.1920.1055" timestamp="1597611373800" />
   </component>
 </project>
