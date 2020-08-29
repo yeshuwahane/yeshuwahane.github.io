@@ -23,28 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0eaa27c-3708-430e-9db3-c4dfdbd60146" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FPS-Survival.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappyBird/Build/UnityLoader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappyBird/Build/Webgl.data.unityweb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappyBird/Build/Webgl.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappyBird/Build/Webgl.wasm.code.unityweb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappyBird/Build/Webgl.wasm.framework.unityweb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappyBird/TemplateData/UnityProgress.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappyBird/TemplateData/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappyBird/TemplateData/fullscreen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappyBird/TemplateData/progressEmpty.Dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappyBird/TemplateData/progressEmpty.Light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappyBird/TemplateData/progressFull.Dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappyBird/TemplateData/progressFull.Light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappyBird/TemplateData/progressLogo.Dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappyBird/TemplateData/progressLogo.Light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappyBird/TemplateData/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappyBird/TemplateData/webgl-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappyBird/flappyBird.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/cv.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects-compact-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects-compact-grid.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +80,7 @@
       <workItem from="1597687408432" duration="977000" />
       <workItem from="1597698530314" duration="1000000" />
       <workItem from="1597747894305" duration="5027000" />
-      <workItem from="1598693658814" duration="4706000" />
+      <workItem from="1598693658814" duration="5543000" />
     </task>
     <servers />
   </component>
