@@ -23,7 +23,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0eaa27c-3708-430e-9db3-c4dfdbd60146" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/faling/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faling/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faling/falling.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faling/falling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faling/falling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faling/falling.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faling/tAlien.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faling/trippy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faling/ufo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faling/wat.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects-compact-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects-compact-grid.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,23 +53,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fy9j78OZmEXtt8fcoW3MRowRy4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/faling" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/faling" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -80,7 +95,9 @@
       <workItem from="1597687408432" duration="977000" />
       <workItem from="1597698530314" duration="1000000" />
       <workItem from="1597747894305" duration="5027000" />
-      <workItem from="1598693658814" duration="5543000" />
+      <workItem from="1598693658814" duration="7920000" />
+      <workItem from="1599472024093" duration="399000" />
+      <workItem from="1599488217801" duration="443000" />
     </task>
     <servers />
   </component>
@@ -98,6 +115,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="589" y="234" width="732" height="637" key="#Inspections" timestamp="1598694695247">
