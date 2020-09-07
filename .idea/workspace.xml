@@ -23,18 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0eaa27c-3708-430e-9db3-c4dfdbd60146" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/faling/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faling/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faling/falling.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faling/falling.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faling/falling.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faling/falling.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faling/tAlien.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faling/trippy.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faling/ufo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faling/wat.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects-compact-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects-compact-grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/cv.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +87,7 @@
       <workItem from="1597747894305" duration="5027000" />
       <workItem from="1598693658814" duration="7920000" />
       <workItem from="1599472024093" duration="399000" />
-      <workItem from="1599488217801" duration="443000" />
+      <workItem from="1599488217801" duration="883000" />
     </task>
     <servers />
   </component>
