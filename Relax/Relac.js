@@ -1,36 +1,26 @@
-var Num_Circles = 12;
+var NUM_CIRCLES = 50;
+
 var circleDiameter;
 var circleRadius;
 
-function setup (){
- createCanvas(480, 600);
- circleDiameter = width/Num_Circles;
- circleRadius = circleDiameter/2;
+var rVal;
+var gVal;
+var bVal;
 
+function setup() {
+    createCanvas(2950, 1650);
+
+    frameRate(5);
+
+    circleDiameter = width/NUM_CIRCLES;
+    circleRadius = circleDiameter/2;
+
+    rVal = 255;
+    gVal = 0;
+    bVal = 0;
 }
 
-function draw(){
-
-    // var isShifted = false;
-    // var y = 0;
-    // while (y <= height) {
-    //
-    //     var x;
-    //
-    //     if(isShifted){
-    //         x = circleRadius;
-    //     }
-    //     else {
-    //         x = 0;
-    //     }
-    //     while (x <= width) {
-    //         ellipse(x, y, circleDiameter, circleDiameter);
-    //         x = x + circleDiameter;
-    //     }
-    //
-    //     y = y + circleRadius;
-    //     isShifted = !isShifted;
-    // }
+function draw() {
     var isShifted = false;
 
     var y = height;
@@ -45,12 +35,18 @@ function draw(){
         }
 
         while (x <= width) {
+            stroke(color(rVal, gVal, bVal));
+            fill(color(rVal, gVal, bVal));
             ellipse(x, y, circleDiameter, circleDiameter);
             x = x + circleDiameter;
         }
 
-
         y = y - circleRadius;
         isShifted = !isShifted;
+
+        rVal = (rVal + 254) % 256;
+        gVal = (gVal + 7) % 256;
+        bVal = (bVal + 3) % 256;
     }
 }
+
