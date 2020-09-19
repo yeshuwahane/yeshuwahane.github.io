@@ -8,7 +8,7 @@ var gVal;
 var bVal;
 
 function setup() {
-    createCanvas(3950, 1950);
+    createCanvas(windowWidth, windowHeight);
 
     frameRate(5);
 
@@ -18,6 +18,10 @@ function setup() {
     rVal = 255;
     gVal = 0;
     bVal = 0;
+}
+
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
 }
 
 function draw() {
