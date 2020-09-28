@@ -1,4 +1,4 @@
-var NUM_CIRCLES = 3gi0;
+var NUM_CIRCLES = 100;
 
 var circleDiameter;
 var circleRadius;
