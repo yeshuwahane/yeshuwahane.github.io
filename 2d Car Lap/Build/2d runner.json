@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Car Race 2d",
+"productVersion": "0.1",
+"dataUrl": "2d runner.data.unityweb",
+"wasmCodeUrl": "2d runner.wasm.code.unityweb",
+"wasmFrameworkUrl": "2d runner.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}

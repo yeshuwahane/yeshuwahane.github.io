@@ -23,28 +23,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0eaa27c-3708-430e-9db3-c4dfdbd60146" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/kartRace/Build/UnityLoader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kartRace/Build/webgl.data.unityweb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kartRace/Build/webgl.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kartRace/Build/webgl.wasm.code.unityweb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kartRace/Build/webgl.wasm.framework.unityweb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kartRace/KartRace.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kartRace/ProjectVersion.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kartRace/TemplateData/UnityProgress.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kartRace/TemplateData/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kartRace/TemplateData/fullscreen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kartRace/TemplateData/progressEmpty.Dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kartRace/TemplateData/progressEmpty.Light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kartRace/TemplateData/progressFull.Dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kartRace/TemplateData/progressFull.Light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kartRace/TemplateData/progressLogo.Dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kartRace/TemplateData/progressLogo.Light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kartRace/TemplateData/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kartRace/TemplateData/webgl-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kartRace/dependencies.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kartRace/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2d Car Lap/2D Car Lap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2d Car Lap/Build/2d runner.data.unityweb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2d Car Lap/Build/2d runner.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2d Car Lap/Build/2d runner.wasm.code.unityweb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2d Car Lap/Build/2d runner.wasm.framework.unityweb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2d Car Lap/Build/UnityLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2d Car Lap/TemplateData/UnityProgress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2d Car Lap/TemplateData/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2d Car Lap/TemplateData/fullscreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2d Car Lap/TemplateData/progressEmpty.Dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2d Car Lap/TemplateData/progressEmpty.Light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2d Car Lap/TemplateData/progressFull.Dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2d Car Lap/TemplateData/progressFull.Light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2d Car Lap/TemplateData/progressLogo.Dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2d Car Lap/TemplateData/progressLogo.Light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2d Car Lap/TemplateData/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2d Car Lap/TemplateData/webgl-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2d Car Lap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiscordBot.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPAM BOT.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faling/fALLING.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projects-compact-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects-compact-grid.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +78,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/kartRace" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web.server" />
@@ -86,11 +86,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/kartRace" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/2d Car Lap" />
+      <recent name="$PROJECT_DIR$/faling" />
+      <recent name="$PROJECT_DIR$/kartRace" />
       <recent name="$PROJECT_DIR$/FPS-Survival" />
-      <recent name="$PROJECT_DIR$/flappyBird" />
-      <recent name="$PROJECT_DIR$/Relax" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -121,7 +121,10 @@
       <workItem from="1601255960375" duration="739000" />
       <workItem from="1601288090692" duration="2822000" />
       <workItem from="1601291685499" duration="199000" />
-      <workItem from="1602314609170" duration="1096000" />
+      <workItem from="1602314609170" duration="1431000" />
+      <workItem from="1602507755418" duration="379000" />
+      <workItem from="1602586942902" duration="2030000" />
+      <workItem from="1604233550745" duration="2325000" />
     </task>
     <servers />
   </component>
